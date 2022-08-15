@@ -15,7 +15,8 @@
 
 ## 活动范围与目标
 
-活动范围：https://bbs.deepin.org/    社区论坛
+活动范围：https://bbs.deepin.org/    社区论坛 
+
 目标：对以上dpkg、make、autoconf等开源软件包的维护及更新，做到及时、安全和高兼容。
 
 ## 小组章程
