@@ -45,5 +45,5 @@ GitHub：https://github.com/deepin-community
 
 ## 相关链接
 
-- https://github.com/deepin-community/deepin-pkg
+- https://github.com/deepin-community/sig-deepin-pkg
 - 文档链接后续更新
