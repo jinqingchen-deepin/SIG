@@ -7,17 +7,20 @@
 以下五段二级标题均为必须存在的段落。小组也可根据自身需求增加其它的段落和详细的描述，但不应删除此处的四个段落。
 
 -->
-# Deepin Pkg SIG
+# deepin 构建软件包维护小组
 
 ## 小组简介
 
-负责dpkg、debhelper、make、autoconf、apt等开源软件包维护工作。
+负责dpkg、debhelper、make、autoconf、apt等构建相关软件包的维护工作。
+后续我们会更新一个列表用来统计构建相关软件包。
 
 ## 活动范围与目标
 
 活动范围：https://bbs.deepin.org/    社区论坛 
+QQ群聊：639761140
+GitHub：https://github.com/deepin-community
 
-目标：对以上dpkg、make、autoconf等开源软件包的维护及更新，做到及时、安全和高兼容。
+目标：对以上dpkg、debhelper、make、autoconf、apt等构建相关软件包的维护及更新，做到及时、安全和高兼容。
 
 ## 小组章程
 
@@ -25,7 +28,9 @@
 
 鼓励所有deepin爱好者一起参与。 
 
-不要求产出速度，不强调贡献排行，参与者尽力而为即可。此外请定期活跃，如连续一个月杳无音讯，则被认为主动退出。 
+不要求产出速度，不强调贡献排行，参与者尽力而为即可。 
+
+产出可以通过fork到本小组内的软件包仓库来实现。
 
 允许随时加入和退出。 
 
@@ -35,9 +40,10 @@
 
 ## 讨论渠道
 
-微信群
+目前可以加入我们的QQ群：639761140
+后续我们还会提供一个邮件列表进行讨论沟通
 
 ## 相关链接
 
-- https://www.gnu.org/software/make/
-- http://www.gnu.org/software/autoconf/
+- https://github.com/deepin-community/deepin-pkg
+- 文档链接后续更新
