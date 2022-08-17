@@ -16,9 +16,10 @@
 
 ## 活动范围与目标
 
-活动范围：https://bbs.deepin.org/    社区论坛 
+活动范围：
+[社区论坛](https://bbs.deepin.org/)
 QQ群聊：639761140
-GitHub：https://github.com/deepin-community
+[GitHub](https://github.com/deepin-community)
 
 目标：对以上dpkg、debhelper、make、autoconf、apt等构建相关软件包的维护及更新，做到及时、安全和高兼容。
 
@@ -45,5 +46,5 @@ GitHub：https://github.com/deepin-community
 
 ## 相关链接
 
-- https://github.com/deepin-community/sig-deepin-pkg
+- [小组仓库](https://github.com/deepin-community/sig-deepin-pkg)
 - 文档链接后续更新
