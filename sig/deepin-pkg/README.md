@@ -18,7 +18,7 @@
 
 活动范围：
 [社区论坛](https://bbs.deepin.org/)
-QQ群聊：639761140
+matrix：#deepin-pkg:deepin.org
 [GitHub](https://github.com/deepin-community)
 
 目标：对以上dpkg、debhelper、make、autoconf、apt等构建相关软件包的维护及更新，做到及时、安全和高兼容。
@@ -41,7 +41,7 @@ QQ群聊：639761140
 
 ## 讨论渠道
 
-目前可以加入我们的QQ群：639761140
+目前可以加入我们的matrix：#deepin-pkg:deepin.org
 后续我们还会提供一个邮件列表进行讨论沟通
 
 ## 相关链接
